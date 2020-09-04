@@ -2,5 +2,10 @@ body {
     color: red;
     background-color: black;
     font: serif;
-    
+}
+h1 {
+    font-size: xx-large;
+}
+h2 {
+    font-size: x-large;
 }
